@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi! I'm Phome Myint Mo 👋
 
-<!--
-**PhomeMyintMo/PhomeMyintMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#About Me
+- I'm currently working as a frontend developer.
 
-Here are some ideas to get you started:
+Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Languages 
+- Javascript
+- Typescript
+
+#Frameworks/libraries
+- React
+
+#ConnectWithMe
+- gmail : phomemyintmo64@gmail.com
+- LinkedId : Phome Myint Mo
