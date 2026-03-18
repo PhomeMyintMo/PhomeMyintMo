@@ -3,7 +3,7 @@ Hi! I'm Phome Myint Mo 👋
 #About Me
 - I'm currently working as a frontend developer.
 
-Tech Stacks
+##Tech Stacks##
 
 #Languages 
 - Javascript
@@ -14,4 +14,4 @@ Tech Stacks
 
 #ConnectWithMe
 - gmail : phomemyintmo64@gmail.com
-- LinkedId : Phome Myint Mo
+- LinkedIn : Phome Myint Mo
