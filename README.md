@@ -8,7 +8,7 @@
 
 </div>
 
-I’m passionate about art, design, and technology, and I enjoy working where these disciplines intersect. I build web applications with a focus on clean design, usability, and performance. Along the way, I’m expanding my skills in mobile app development, user interface design, and user research to create thoughtful, user-centered digital experiences.
+I'm passionate about the art, design, and technology. I build web applications with a focus on clean design, usability, and performance, while continuously exploring emerging technologies, including AI, to create impactful digital experiences.
 
   <p align="center">
   <a href="https://linkedin.com/in/phome-myint-mo-0409011a8">
