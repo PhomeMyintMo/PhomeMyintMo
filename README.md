@@ -39,35 +39,35 @@ I’m passionate about art, design, and technology, and I enjoy working where th
 <h4>★ Frontend</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" height="32"/>
 </p>
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery,reactnative" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery,reactnative" height="32"/>
 </p>
 
 <h4>★ Backend</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" height="32"/>
 </p>
 
 <h4>★ Languages</h4>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="32"/>
 </p>
 
 ### 🛠️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="32"/>
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="32"/>
 </p>
 
 <br/>
