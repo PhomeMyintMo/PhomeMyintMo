@@ -15,7 +15,7 @@ I'm passionate about the art, design, and technology. I build web applications w
     <img src="https://skillicons.dev/icons?i=linkedin" height="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="phomemyintmo64@gmail.com">
+  <a href="mailto:phomemyintmo64@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
