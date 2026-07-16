@@ -30,7 +30,7 @@ I'm passionate about the art, design, and technology. I build web applications w
 
 <p align="center">
   <strong>
-    <a href="https://phomemyintmo-portfolio.vercel.app/" target="_blank">
+    <a href="https://phomemyintmo.vercel.app/" target="_blank">
       ♡ Visit My Portfolio ♡
     </a>
   </strong>
