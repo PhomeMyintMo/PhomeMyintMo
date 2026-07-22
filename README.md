@@ -82,7 +82,6 @@ I'm passionate about the art, design, and technology. I build web applications w
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PhomeMyintMo&layout=compact&theme=tokyonight" height="170"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PhomeMyintMo&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PhomeMyintMo&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 
