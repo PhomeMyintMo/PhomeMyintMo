@@ -2,11 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%21+I%27m+Phome+Myint+Mo" />
 </p>
 
-<div align="center">
 
-> ✦ *"My relationship with technology stems on the desire to make the lives of others and even myself easier with my lifelong skill."* ✦
-
-</div>
 
 I'm passionate about the art, design, and technology. I build web applications with a focus on clean design, usability, and performance, while continuously exploring emerging technologies, including AI, to create impactful digital experiences.
 
